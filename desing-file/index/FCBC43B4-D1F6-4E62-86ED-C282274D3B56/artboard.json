@@ -65,9 +65,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8940925611250754,
-    "green": 0.9230301405987709,
-    "red": 0.9556494472789115
+    "blue": 0.3019607843137252,
+    "green": 0.1686274509803922,
+    "red": 0.9176470588235294
   },
   "hasBackgroundColor": true,
   "horizontalRulerData": {
