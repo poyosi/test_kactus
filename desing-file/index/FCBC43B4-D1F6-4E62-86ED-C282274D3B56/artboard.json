@@ -65,7 +65,7 @@
     "green": 0.9230301405987709,
     "red": 0.9556494472789115
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
