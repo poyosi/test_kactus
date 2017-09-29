@@ -31,7 +31,8 @@
     "version": 93
   },
   "pages": [
-    "index"
+    "index",
+    "2"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
