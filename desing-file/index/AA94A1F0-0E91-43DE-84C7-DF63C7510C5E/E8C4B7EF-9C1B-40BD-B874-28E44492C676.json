@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "16D2B39E-04FC-485E-BDAF-FABF39DF2319",
+  "do_objectID": "E8C4B7EF-9C1B-40BD-B874-28E44492C676",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,7 +31,7 @@
   "name": "header",
   "nameIsFixed": false,
   "overrides": {
-    "A2B7F0AF-D1B0-4126-B8EF-A64CD33AB393": "みだし"
+    "A2B7F0AF-D1B0-4126-B8EF-A64CD33AB393": "わみわみ"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
